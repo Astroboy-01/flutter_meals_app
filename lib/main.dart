@@ -1,3 +1,6 @@
+// My 2021 adventure learning to write
+// Flutter apps by Astroboy_01.
+
 import 'package:flutter/material.dart';
 import './dummy_data.dart';
 import './screens/filters_screen.dart';
